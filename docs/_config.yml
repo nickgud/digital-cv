@@ -38,7 +38,8 @@ remote_theme: jekyll/minima
 theme: minima
 plugins:
   - jekyll-feed
-- 
+
+
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   # Minima skin selection.
